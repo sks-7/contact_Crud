@@ -1,0 +1,26 @@
+{
+  "name": "contact_Crud",
+  "version": "1.0.0",
+  "description": "I am making this repo for creating crud oprating using mySql databse.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sks-7/contact_Crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sks-7/contact_Crud/issues"
+  },
+  "homepage": "https://github.com/sks-7/contact_Crud#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql2": "^3.2.0",
+    "nodemon": "^2.0.22"
+  }
+}
